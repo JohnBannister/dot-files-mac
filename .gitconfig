@@ -1,0 +1,10 @@
+[user]
+	email = john_bannister@my.uri.edu
+	name = John Bannister
+[color]
+	ui = auto
+[push]
+	default = simple
+[core]
+	autocrlf = input
+	safecrlf = false
